@@ -1,7 +1,0 @@
-pandas
-numpy
-scikit-learn
-joblib
-google-play-scraper
-tensorflow
-jupyter
